@@ -22,8 +22,11 @@ Exécutez le script batch en tapant Athons_Windows_Update.bat dans l'invite de c
 Par défaut, le script exécutera toutes les étapes nécessaires pour télécharger et installer les mises à jour disponibles. Si vous souhaitez personnaliser le processus de mise à jour, vous pouvez utiliser les paramètres de ligne de commande suivants :
 
 /checkonly : Vérifie les mises à jour disponibles sans les installer.
+
 /downloadonly : Télécharge les mises à jour disponibles sans les installer.
+
 /installonly : Installe les mises à jour téléchargées sans vérifier s'il y a de nouvelles mises à jour.
+
 /quiet : Supprime la plupart des messages de sortie, rendant le processus de mise à jour plus silencieux.
 
 **Configuration requise**
